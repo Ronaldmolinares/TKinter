@@ -2,6 +2,9 @@
 
 Aplicación gráfica de clasificación de especies Iris utilizando Tkinter y Machine Learning.
 
+![Captura de pantalla de la aplicación](Boceto1.png)
+![Área de resultados](Boceto2.png)
+
 ## Descripción
 
 **IrisApp** es una interfaz gráfica que implementa un clasificador de especies Iris basado en características botánicas:

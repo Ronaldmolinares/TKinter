@@ -1,0 +1,16 @@
+[project]
+name = "tkinter"
+version = "0.1.0"
+description = "Aplicación clasificadora de especies Iris con Tkinter"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "joblib>=1.5.3",
+    "pandas>=3.0.2",
+    "scikit-learn>=1.8.0",
+]
+
+[dependency-groups]
+dev = [
+    "pandas-stubs>=3.0.0.260204",
+]
